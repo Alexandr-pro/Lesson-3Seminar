@@ -10,7 +10,7 @@
 ## Работа с изображения
 
 Чтобы добавить изображения в Markdown, используйте следующую конструкцию:
-["Альтернативныйтекст"](https://cameralabs.org/media/camera/oktiabr/26/48_4ea61a0674caca148d0b75dedd3a29ef.jpg)
+["Альтернативныйтекст"] (https://cameralabs.org/media/camera/oktiabr/26/48_4ea61a0674caca148d0b75dedd3a29ef.jpg)
 
 
 
