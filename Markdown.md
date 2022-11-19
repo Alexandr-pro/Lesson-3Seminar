@@ -67,3 +67,5 @@ Content Cell | Content Cell
  ```
 
  ## Работа с исходным кодом
+
+ Moscow is the capital of Russia
